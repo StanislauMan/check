@@ -1,0 +1,9 @@
+Title
+Pre-conditions
+Actual result
+Expected result
+Attachments
+Requirements
+
+Assigned to
+Current sprint
