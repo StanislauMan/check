@@ -1,0 +1,7 @@
+Verify that team members have been added to your account with correct roles.
+Confirm the account information is correct, including bank information, company profile, default statement descriptor, and customer service phone number.
+Confirm that your manual or automatic payout schedule is correct.
+Provide any required verification information for the owner and business.
+Set up two-step authentication (recommended for all Dashboard users).
+Ensure all payment methods that you’re supporting have been activated and configured.
+Confirm that you understand the legal contract your business agrees to when you become a platform.
